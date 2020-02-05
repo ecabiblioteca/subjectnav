@@ -8,8 +8,8 @@
     "text": "Tiago Murakami"
   },
   "text": {
-    "more": "Long Description",
-    "intro": "Short Description",
+    "more": "<h1>Redes de assuntos</h1><br/>A rede de assuntos é formada a partir dos assuntos atribuídos aos livros usando o Vocabulário Controlado da USP. Por exemplo, um livro com assunto BIBLIOTECA e outro ARTE gera uma relação entre os dois assuntos nesta rede. Esta visualização foi desenvolvida usando o software <a href='https://gephi.org/'>Gephi</a>",
+    "intro": "Navegação na rede formada pelos assuntos no catálogo da Biblioteca da ECA/USP ",
     "title": "Assuntos do acervo da Biblioteca da ECA"
   },
   "legend": {
