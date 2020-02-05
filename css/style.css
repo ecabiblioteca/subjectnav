@@ -205,17 +205,17 @@ display:inline-block;
 	display:none;
 }
 
-#oii {
-width: 227px;
-height: 56px;
-background-image: url('../images/oii_text.png');
+#ecausp {
+width: 500px;
+height: 200px;
+background-image: url('http://www3.eca.usp.br/sites/default/files/form/logos/logo-eca-2014.png');
 background-repeat: no-repeat;
 display:inline-block;
 margin-right:10px;
 
 }
 
-#oii span {
+#ecausp span {
 	display:none;
 }
 
